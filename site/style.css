@@ -1,1 +1,11 @@
 h1 {text-align: center;}
+
+section { width: 300px ;border: 1px solid black; text-align: right;box-sizing: border-box; margin-bottom: 30px; margin-left: 10px; margin-right: 10px;
+height: 255px; overflow:auto;}
+
+p {background-color: grey; padding: 10px
+	;border: 1px solid black;}
+
+#Chicken {background-color: pink; }
+#Beef {background-color: red;}
+#Sushi {background-color: yellow}
